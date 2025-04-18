@@ -1,2 +1,2 @@
 # ejemplo
-Se presenta un repositorio para validar el manejo de GiHub
+Se presenta un repositorio para validar el manejo de GiHub.
